@@ -2,3 +2,31 @@ p {
     text-align: center;
     Font-family: sans-serif;
 }
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    width: 100%;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    align-self: flex-start;
+}
+.nav{
+    width: 500px;
+    height: 100px;
+    align-self: flex-end;
+}
+.content{
+    width: 80vw;
+    height: 100vh;
+    background-color: green;
+}
+.footer{
+    width: 100vw;
+    height: 100px;
+}
