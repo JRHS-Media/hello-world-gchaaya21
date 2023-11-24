@@ -33,6 +33,7 @@ p {
     background-color: #B0BF99;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+    align-content: center;
 }
 body {
     background-color: #4F6658;
