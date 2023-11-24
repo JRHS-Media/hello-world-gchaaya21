@@ -15,6 +15,7 @@ p {
     width: 100px;
     height: 100px;
     align-self: flex-start;
+    background-image: url(./pickld_logo.png)
 }
 .nav{
     width: 500px;
